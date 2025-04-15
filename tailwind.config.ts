@@ -61,34 +61,6 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				},
-				// Sustainable finance theme colors
-				eco: {
-					green: {
-						light: '#8CC084',
-						DEFAULT: '#4B9560',
-						dark: '#265C39'
-					},
-					blue: {
-						light: '#81ADCF',
-						DEFAULT: '#3A7CA5',
-						dark: '#1E4D6B'
-					},
-					earth: {
-						light: '#D6C6A5',
-						DEFAULT: '#A18E6F',
-						dark: '#645943'
-					}
-				},
-				chart: {
-					green: '#4CAF50',
-					blue: '#2196F3',
-					amber: '#FFC107',
-					red: '#F44336',
-					purple: '#9C27B0',
-					teal: '#009688',
-					orange: '#FF9800',
-					indigo: '#3F51B5'
 				}
 			},
 			borderRadius: {
